@@ -1,0 +1,90 @@
+,team_id,team_name,country_name,match_count,goal_scored_total,goal_conceded_total,goal_scored_avg,goal_conceded_avg,dribbling,dribbling_class,passing,passing_class,speed,speed_class,assiting,assisting_class,crossing,crossing_class,shooting,shooting_class,defence,defence_class
+0,7869,Córdoba CF,Spain,22,11.0,41.0,0.5,1.8636363636363635,40,Normal,48,Mixed,53,Balanced,55,Normal,59,Normal,57,Normal,38,Medium
+1,7878,Granada CF,Spain,60,65.0,107.0,1.0833333333333333,1.7833333333333334,50,Normal,59,Mixed,57,Balanced,61,Normal,63,Normal,51,Normal,48,Medium
+2,7943,Sassuolo,Italy,60,81.0,76.0,1.35,1.2666666666666666,65,Normal,60,Mixed,57,Balanced,56,Normal,57,Normal,56,Normal,38,Medium
+3,8177,Hertha BSC Berlin,Germany,51,54.0,59.0,1.0588235294117647,1.1568627450980393,44,Normal,55,Mixed,47,Balanced,59,Normal,68,Lots,45,Normal,50,Medium
+4,8178,Bayer 04 Leverkusen,Germany,51,90.0,57.0,1.7647058823529411,1.1176470588235294,29,Little,55,Mixed,73,Fast,77,Risky,54,Normal,61,Normal,61,Medium
+5,8191,Burnley,England,19,14.0,24.0,0.7368421052631579,1.263157894736842,32,Little,67,Long,54,Balanced,72,Risky,57,Normal,47,Normal,63,Medium
+6,8197,Leicester City,England,57,97.0,60.0,1.7017543859649122,1.0526315789473684,41,Normal,60,Mixed,63,Balanced,47,Normal,64,Normal,46,Normal,58,Medium
+7,8226,TSG 1899 Hoffenheim,Germany,51,59.0,84.0,1.1568627450980393,1.6470588235294117,49,Normal,53,Mixed,69,Fast,66,Normal,62,Normal,59,Normal,63,Medium
+8,8234,FC Ingolstadt 04,Germany,34,33.0,42.0,0.9705882352941176,1.2352941176470589,51,Normal,46,Mixed,55,Balanced,47,Normal,53,Normal,51,Normal,37,Medium
+9,8262,SV Darmstadt 98,Germany,34,38.0,53.0,1.1176470588235294,1.5588235294117647,43,Normal,77,Long,59,Balanced,52,Normal,77,Lots,45,Normal,32,Deep
+10,8302,Sevilla FC,Spain,61,97.0,78.0,1.5901639344262295,1.278688524590164,53,Normal,53,Mixed,53,Balanced,53,Normal,52,Normal,60,Normal,42,Medium
+11,8305,Getafe CF,Spain,60,58.0,111.0,0.9666666666666667,1.85,41,Normal,38,Mixed,34,Balanced,55,Normal,39,Normal,49,Normal,43,Medium
+12,8306,UD Las Palmas,Spain,38,45.0,53.0,1.1842105263157894,1.394736842105263,55,Normal,44,Mixed,48,Balanced,53,Normal,42,Normal,53,Normal,53,Medium
+13,8315,Athletic Club de Bilbao,Spain,60,86.0,66.0,1.4333333333333333,1.1,46,Normal,39,Mixed,46,Balanced,50,Normal,60,Normal,36,Normal,49,Medium
+14,8358,SC Freiburg,Germany,17,19.0,22.0,1.1176470588235294,1.2941176470588236,54,Normal,38,Mixed,59,Balanced,55,Normal,44,Normal,45,Normal,53,Medium
+15,8370,Rayo Vallecano,Spain,60,81.0,110.0,1.35,1.8333333333333333,52,Normal,44,Mixed,29,Slow,44,Normal,44,Normal,47,Normal,54,Medium
+16,8372,SD Eibar,Spain,60,64.0,94.0,1.0666666666666667,1.5666666666666667,51,Normal,52,Mixed,62,Balanced,59,Normal,55,Normal,52,Normal,37,Medium
+17,8406,FC Augsburg,Germany,51,63.0,74.0,1.2352941176470589,1.4509803921568627,51,Normal,55,Mixed,59,Balanced,49,Normal,62,Normal,55,Normal,34,Medium
+18,8455,Chelsea,England,57,91.0,71.0,1.5964912280701755,1.2456140350877194,41,Normal,36,Mixed,67,Fast,41,Normal,34,Normal,44,Normal,39,Medium
+19,8456,Manchester City,England,57,113.0,62.0,1.9824561403508771,1.087719298245614,35,Normal,29,Short,59,Balanced,38,Normal,36,Normal,24,Little,48,Medium
+20,8460,SC Paderborn 07,Germany,17,10.0,39.0,0.5882352941176471,2.2941176470588234,46,Normal,62,Mixed,67,Fast,56,Normal,48,Normal,56,Normal,25,Deep
+21,8466,Southampton,England,57,81.0,59.0,1.4210526315789473,1.0350877192982457,31,Little,46,Mixed,52,Balanced,42,Normal,54,Normal,30,Little,50,Medium
+22,8472,Sunderland,England,57,63.0,88.0,1.105263157894737,1.543859649122807,43,Normal,51,Mixed,43,Balanced,59,Normal,50,Normal,55,Normal,47,Medium
+23,8524,Atalanta,Italy,60,68.0,83.0,1.1333333333333333,1.3833333333333333,45,Normal,37,Mixed,64,Balanced,38,Normal,49,Normal,51,Normal,36,Medium
+24,8529,Cagliari,Italy,22,27.0,39.0,1.2272727272727273,1.7727272727272727,32,Little,35,Mixed,67,Fast,69,Risky,58,Normal,69,Lots,65,Medium
+25,8533,Chievo Verona,Italy,60,59.0,67.0,0.9833333333333333,1.1166666666666667,54,Normal,67,Long,66,Balanced,52,Normal,66,Normal,52,Normal,46,Medium
+26,8534,Empoli,Italy,60,69.0,79.0,1.15,1.3166666666666667,43,Normal,36,Mixed,66,Balanced,59,Normal,64,Normal,63,Normal,46,Medium
+27,8535,Fiorentina,Italy,60,100.0,75.0,1.6666666666666667,1.25,54,Normal,33,Short,34,Balanced,68,Risky,51,Normal,53,Normal,58,Medium
+28,8540,Palermo,Italy,60,69.0,94.0,1.15,1.5666666666666667,66,Normal,36,Mixed,66,Balanced,60,Normal,34,Normal,64,Normal,44,Medium
+29,8543,Lazio,Italy,59,91.0,69.0,1.5423728813559323,1.1694915254237288,65,Normal,55,Mixed,68,Fast,68,Risky,80,Lots,72,Lots,59,Medium
+30,8558,RCD Espanyol,Spain,60,67.0,101.0,1.1166666666666667,1.6833333333333333,52,Normal,44,Mixed,50,Balanced,52,Normal,60,Normal,40,Normal,37,Medium
+31,8560,Real Sociedad,Spain,60,72.0,77.0,1.2,1.2833333333333334,52,Normal,50,Mixed,60,Balanced,54,Normal,60,Normal,52,Normal,49,Medium
+32,8564,Milan,Italy,60,80.0,75.0,1.3333333333333333,1.25,70,Lots,52,Mixed,48,Balanced,66,Normal,36,Normal,69,Lots,58,Medium
+33,8581,Levante UD,Spain,60,59.0,107.0,0.9833333333333333,1.7833333333333334,36,Normal,65,Mixed,62,Balanced,71,Risky,42,Normal,65,Normal,36,Medium
+34,8586,Tottenham Hotspur,England,57,103.0,64.0,1.8070175438596492,1.1228070175438596,46,Normal,40,Mixed,47,Balanced,41,Normal,41,Normal,63,Normal,63,Medium
+35,8600,Udinese,Italy,60,58.0,94.0,0.9666666666666667,1.5666666666666667,54,Normal,63,Mixed,68,Fast,69,Risky,68,Lots,52,Normal,40,Medium
+36,8603,Real Betis Balompié,Spain,38,34.0,52.0,0.8947368421052632,1.368421052631579,49,Normal,37,Mixed,59,Balanced,59,Normal,43,Normal,53,Normal,58,Medium
+37,8633,Real Madrid CF,Spain,61,173.0,59.0,2.8360655737704916,0.9672131147540983,57,Normal,46,Mixed,50,Balanced,61,Normal,41,Normal,63,Normal,52,Medium
+38,8634,FC Barcelona,Spain,60,181.0,43.0,3.0166666666666666,0.7166666666666667,35,Normal,51,Mixed,36,Balanced,36,Normal,49,Normal,56,Normal,61,Medium
+39,8636,Inter,Italy,60,84.0,63.0,1.4,1.05,69,Lots,54,Mixed,58,Balanced,56,Normal,60,Normal,53,Normal,47,Medium
+40,8650,Liverpool,England,57,89.0,73.0,1.5614035087719298,1.280701754385965,60,Normal,45,Mixed,66,Balanced,34,Normal,34,Normal,46,Normal,51,Medium
+41,8654,West Ham United,England,57,79.0,75.0,1.3859649122807018,1.3157894736842106,37,Normal,57,Mixed,77,Fast,68,Risky,73,Lots,29,Little,30,Deep
+42,8659,West Bromwich Albion,England,57,54.0,71.0,0.9473684210526315,1.2456140350877194,32,Little,51,Mixed,62,Balanced,53,Normal,50,Normal,60,Normal,41,Medium
+43,8667,Hull City,England,19,15.0,25.0,0.7894736842105263,1.3157894736842106,40,Normal,55,Mixed,56,Balanced,54,Normal,49,Normal,56,Normal,38,Medium
+44,8668,Everton,England,57,78.0,74.0,1.368421052631579,1.2982456140350878,45,Normal,40,Mixed,43,Balanced,39,Normal,33,Little,63,Normal,52,Medium
+45,8678,Bournemouth,England,38,45.0,67.0,1.1842105263157894,1.763157894736842,36,Normal,47,Mixed,47,Balanced,49,Normal,45,Normal,47,Normal,48,Medium
+46,8686,Roma,Italy,60,109.0,61.0,1.8166666666666667,1.0166666666666666,27,Little,47,Mixed,68,Fast,71,Risky,54,Normal,66,Normal,36,Medium
+47,8697,SV Werder Bremen,Germany,51,74.0,91.0,1.4509803921568627,1.7843137254901962,55,Normal,63,Mixed,56,Balanced,68,Risky,66,Normal,58,Normal,63,Medium
+48,8721,VfL Wolfsburg,Germany,51,86.0,70.0,1.6862745098039216,1.3725490196078431,45,Normal,57,Mixed,68,Fast,69,Risky,66,Normal,50,Normal,66,Medium
+49,8722,1. FC Köln,Germany,51,55.0,59.0,1.0784313725490196,1.1568627450980393,47,Normal,65,Mixed,59,Balanced,57,Normal,36,Normal,71,Lots,42,Medium
+50,9783,RC Deportivo de La Coruña,Spain,60,67.0,94.0,1.1166666666666667,1.5666666666666667,55,Normal,47,Mixed,53,Balanced,38,Normal,52,Normal,55,Normal,45,Medium
+51,9788,Borussia Mönchengladbach,Germany,51,95.0,60.0,1.8627450980392157,1.1764705882352942,53,Normal,32,Short,31,Slow,38,Normal,26,Little,49,Normal,41,Medium
+52,9789,Borussia Dortmund,Germany,51,111.0,50.0,2.176470588235294,0.9803921568627451,37,Normal,40,Mixed,71,Fast,70,Risky,44,Normal,49,Normal,65,Medium
+53,9790,Hamburger SV,Germany,51,56.0,77.0,1.0980392156862746,1.5098039215686274,56,Normal,52,Mixed,42,Balanced,62,Normal,58,Normal,47,Normal,44,Medium
+54,9804,Torino,Italy,60,88.0,82.0,1.4666666666666666,1.3666666666666667,69,Lots,36,Mixed,69,Fast,37,Normal,69,Lots,53,Normal,39,Medium
+55,9810,Eintracht Frankfurt,Germany,51,56.0,80.0,1.0980392156862746,1.5686274509803921,41,Normal,38,Mixed,51,Balanced,47,Normal,58,Normal,40,Normal,48,Medium
+56,9817,Watford,England,38,40.0,50.0,1.0526315789473684,1.3157894736842106,32,Little,52,Mixed,61,Balanced,54,Normal,42,Normal,45,Normal,38,Medium
+57,9823,FC Bayern Munich,Germany,51,119.0,31.0,2.3333333333333335,0.6078431372549019,24,Little,28,Short,45,Balanced,37,Normal,31,Little,22,Little,72,High
+58,9825,Arsenal,England,57,102.0,49.0,1.7894736842105263,0.8596491228070176,51,Normal,30,Short,59,Balanced,28,Safe,44,Normal,46,Normal,51,Medium
+59,9826,Crystal Palace,England,57,66.0,72.0,1.1578947368421053,1.263157894736842,45,Normal,67,Long,61,Balanced,67,Risky,69,Lots,50,Normal,36,Medium
+60,9850,Norwich City,England,38,39.0,67.0,1.0263157894736843,1.763157894736842,38,Normal,55,Mixed,45,Balanced,46,Normal,54,Normal,47,Normal,38,Medium
+61,9857,Bologna,Italy,38,33.0,45.0,0.868421052631579,1.1842105263157894,53,Normal,48,Mixed,63,Balanced,32,Safe,48,Normal,52,Normal,30,Deep
+62,9864,Málaga CF,Spain,60,60.0,68.0,1.0,1.1333333333333333,51,Normal,36,Mixed,42,Balanced,41,Normal,40,Normal,50,Normal,47,Medium
+63,9865,UD Almería,Spain,22,22.0,40.0,1.0,1.8181818181818181,41,Normal,65,Mixed,46,Balanced,57,Normal,54,Normal,40,Normal,37,Medium
+64,9869,Real Sporting de Gijón,Spain,38,40.0,62.0,1.0526315789473684,1.631578947368421,48,Normal,50,Mixed,55,Balanced,62,Normal,59,Normal,38,Normal,45,Medium
+65,9875,Napoli,Italy,59,120.0,62.0,2.0338983050847457,1.0508474576271187,70,Lots,37,Mixed,53,Balanced,68,Risky,54,Normal,67,Lots,47,Medium
+66,9876,Hellas Verona,Italy,60,65.0,101.0,1.0833333333333333,1.6833333333333333,29,Little,38,Mixed,57,Balanced,39,Normal,54,Normal,55,Normal,47,Medium
+67,9880,Cesena,Italy,22,23.0,43.0,1.0454545454545454,1.9545454545454546,31,Little,41,Mixed,66,Balanced,53,Normal,44,Normal,66,Normal,39,Medium
+68,9882,Sampdoria,Italy,60,74.0,89.0,1.2333333333333334,1.4833333333333334,56,Normal,38,Mixed,36,Balanced,49,Normal,52,Normal,29,Little,50,Medium
+69,9885,Juventus,Italy,60,113.0,37.0,1.8833333333333333,0.6166666666666667,35,Normal,20,Short,50,Balanced,65,Normal,50,Normal,80,Lots,35,Medium
+70,9891,Frosinone,Italy,38,35.0,76.0,0.9210526315789473,2.0,48,Normal,46,Mixed,63,Balanced,51,Normal,50,Normal,50,Normal,55,Medium
+71,9904,Hannover 96,Germany,51,50.0,92.0,0.9803921568627451,1.803921568627451,55,Normal,41,Mixed,48,Balanced,38,Normal,51,Normal,40,Normal,35,Medium
+72,9905,1. FSV Mainz 05,Germany,51,72.0,66.0,1.411764705882353,1.2941176470588236,43,Normal,53,Mixed,60,Balanced,49,Normal,40,Normal,44,Normal,55,Medium
+73,9906,Atlético Madrid,Spain,60,99.0,33.0,1.65,0.55,50,Normal,50,Mixed,57,Balanced,61,Normal,62,Normal,49,Normal,49,Medium
+74,9910,RC Celta de Vigo,Spain,60,81.0,85.0,1.35,1.4166666666666667,59,Normal,38,Mixed,55,Balanced,41,Normal,48,Normal,50,Normal,55,Medium
+75,10003,Swansea City,England,57,64.0,78.0,1.1228070175438596,1.368421052631579,44,Normal,42,Mixed,45,Balanced,34,Normal,36,Normal,55,Normal,31,Deep
+76,10167,Parma,Italy,22,17.0,39.0,0.7727272727272727,1.7727272727272727,66,Normal,33,Short,48,Balanced,69,Risky,62,Normal,45,Normal,43,Medium
+77,10172,Queens Park Rangers,England,19,21.0,39.0,1.105263157894737,2.0526315789473686,39,Normal,61,Mixed,30,Slow,53,Normal,53,Normal,60,Normal,50,Medium
+78,10189,FC Schalke 04,Germany,51,65.0,68.0,1.2745098039215685,1.3333333333333333,43,Normal,42,Mixed,58,Balanced,64,Normal,61,Normal,37,Normal,55,Medium
+79,10194,Stoke City,England,57,68.0,77.0,1.1929824561403508,1.3508771929824561,41,Normal,49,Mixed,48,Balanced,51,Normal,59,Normal,49,Normal,44,Medium
+80,10205,Villarreal CF,Spain,60,65.0,58.0,1.0833333333333333,0.9666666666666667,42,Normal,36,Mixed,48,Balanced,36,Normal,52,Normal,55,Normal,47,Medium
+81,10233,Genoa,Italy,60,86.0,80.0,1.4333333333333333,1.3333333333333333,52,Normal,68,Long,64,Balanced,66,Normal,45,Normal,23,Little,27,Deep
+82,10252,Aston Villa,England,57,47.0,111.0,0.8245614035087719,1.9473684210526316,37,Normal,54,Mixed,63,Balanced,60,Normal,48,Normal,38,Normal,35,Medium
+83,10260,Manchester United,England,57,78.0,53.0,1.368421052631579,0.9298245614035088,42,Normal,44,Mixed,38,Balanced,49,Normal,44,Normal,40,Normal,54,Medium
+84,10261,Newcastle United,England,57,62.0,100.0,1.087719298245614,1.7543859649122806,45,Normal,49,Mixed,58,Balanced,47,Normal,54,Normal,46,Normal,41,Medium
+85,10267,Valencia CF,Spain,60,87.0,67.0,1.45,1.1166666666666667,46,Normal,35,Mixed,35,Balanced,37,Normal,51,Normal,58,Normal,49,Medium
+86,10268,Elche CF,Spain,22,22.0,30.0,1.0,1.3636363636363635,52,Normal,48,Mixed,51,Balanced,53,Normal,54,Normal,57,Normal,49,Medium
+87,10269,VfB Stuttgart,Germany,51,72.0,103.0,1.411764705882353,2.019607843137255,55,Normal,41,Mixed,59,Balanced,58,Normal,66,Normal,48,Normal,41,Medium
+88,208931,Carpi,Italy,38,37.0,57.0,0.9736842105263158,1.5,45,Normal,65,Mixed,80,Fast,70,Risky,40,Normal,50,Normal,25,Deep
